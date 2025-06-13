@@ -5,7 +5,7 @@ build-backend = "setuptools.build_meta"
 [project]
 name = "ais-dev2il-mlops-taxi-rides"
 version = "1.0.0"
-requires-python = ">=3.13.3"
+requires-python = ">=3.13.0"
 dependencies = [
     "scikit-learn==1.6.1",
     "pandas==2.2.3",
